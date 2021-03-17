@@ -1,5 +1,5 @@
 # ATTENDANCE MANAGEMENT SYSTEM
-A full stack web application, being built using Reactjs, Nodejs, and express. Uses mongoDb for Database connectivity
+A full stack web application, being built using Reactjs, Nodejs, and express. Uses mongoDb for Database connectivity.
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
